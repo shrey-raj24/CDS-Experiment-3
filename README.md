@@ -41,6 +41,6 @@ return 0;
 ```
 
 Output:-
-1[exp3]
+1[exp3](https://github.com/shrey-raj24/CDS-Experiment-3/blob/main/third.png)
 
 Conclusion :- in this experiment we learnt to use the basic operators like arithematic, functional and logical.
